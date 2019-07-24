@@ -1,4 +1,4 @@
-# django-vuejs
+# django-jwt-token
 
 Django REST Framework での JWT Authentication
 ![title](https://github.com/mila411/django-jwt-token/blob/master/title.png)
